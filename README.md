@@ -14,7 +14,10 @@
 Since the trajectory keeps changing (it has nonzero $\ddot{x}$, $\overset{\ldots}{x}$, …),  why don't these higher derivatives need to be part of the state?
 **Answer**
 The definition of the state is separate from the definition of its time evolution. Once you have positions and momenta and the evolution equations, you can compute all higher order derivatives of, e.g. the position, via the equations.
+
 ## Lecture 2
 **Summary**
+- Our example state of a system of $N$ atoms in $\mathbb{R}^3$ lives in a 
+
 **Question**
 **Answer**
